@@ -17,3 +17,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajabhishek9060&show_icons=true&locale=en&layout=compact" alt="rajabhishek9060" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajabhishek9060&" alt="rajabhishek9060" /></p>
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  
+</div>
