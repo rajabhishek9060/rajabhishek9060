@@ -68,6 +68,8 @@
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajabhishek9060&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p> -->
 
+<img src="https://raw.githubusercontent.com/rajabhishek9060/rajabhishek9060/output/snake.svg" width = 1500 alt="Snake animation" />
+
 ---
 
 <p align="center">🌟 "Code. Collaborate. Contribute. Repeat." 🌟</p>
